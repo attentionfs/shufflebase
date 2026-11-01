@@ -43,7 +43,7 @@ Report a vulnerability if you find:
 ## Reporting a vulnerability
 
 Please report security issues privately via
-[GitHub Security Advisories](https://github.com/Laaaaksh/shufflebase/security/advisories/new)
+[GitHub Security Advisories](https://github.com/attentionfs/shufflebase/security/advisories/new)
 rather than a public issue. Include the version, a reproduction if you have
 one, and the impact as you understand it. We'll acknowledge reports within a
 few days.

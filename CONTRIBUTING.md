@@ -3,7 +3,7 @@
 ## Getting set up
 
 ```sh
-git clone https://github.com/Laaaaksh/shufflebase.git
+git clone https://github.com/attentionfs/shufflebase.git
 cd shufflebase
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev,postgres,mysql,web]"

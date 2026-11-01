@@ -59,7 +59,7 @@ spaces.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement via a private
-[GitHub security advisory](https://github.com/Laaaaksh/shufflebase/security/advisories/new)
+[GitHub security advisory](https://github.com/attentionfs/shufflebase/security/advisories/new)
 or by contacting the maintainer directly. All complaints will be reviewed and
 investigated promptly and fairly.
 

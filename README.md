@@ -5,13 +5,13 @@
 **shufflebase generates realistic, referentially-consistent staging data from a real Postgres or MySQL schema — masking or resynthesizing sensitive columns while keeping every foreign key valid, self-hosted with no data ever leaving your infrastructure.**
 
 <p align="center">
-  <a href="https://github.com/Laaaaksh/shufflebase/stargazers"><img src="https://img.shields.io/github/stars/Laaaaksh/shufflebase?style=for-the-badge&color=yellow&label=Star%20this%20repo" alt="Star this repo" /></a>
+  <a href="https://github.com/attentionfs/shufflebase/stargazers"><img src="https://img.shields.io/github/stars/attentionfs/shufflebase?style=for-the-badge&color=yellow&label=Star%20this%20repo" alt="Star this repo" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Laaaaksh/shufflebase/actions/workflows/ci.yml"><img src="https://github.com/Laaaaksh/shufflebase/actions/workflows/ci.yml/badge.svg" alt="CI status" /></a>
-  <a href="https://github.com/Laaaaksh/shufflebase/releases"><img src="https://img.shields.io/github/v/release/Laaaaksh/shufflebase?include_prereleases" alt="Latest release" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/Laaaaksh/shufflebase" alt="License" /></a>
+  <a href="https://github.com/attentionfs/shufflebase/actions/workflows/ci.yml"><img src="https://github.com/attentionfs/shufflebase/actions/workflows/ci.yml/badge.svg" alt="CI status" /></a>
+  <a href="https://github.com/attentionfs/shufflebase/releases"><img src="https://img.shields.io/github/v/release/attentionfs/shufflebase?include_prereleases" alt="Latest release" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/attentionfs/shufflebase" alt="License" /></a>
   <a href="pyproject.toml"><img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python 3.10+" /></a>
   <a href="#requirements"><img src="https://img.shields.io/badge/database-postgres%20%7C%20mysql-336791" alt="Postgres and MySQL" /></a>
 </p>
@@ -63,7 +63,7 @@ From source (this is the only install path today — shufflebase isn't
 published on PyPI yet, see [CONTRIBUTING.md](CONTRIBUTING.md#release-procedure)):
 
 ```sh
-git clone https://github.com/Laaaaksh/shufflebase.git
+git clone https://github.com/attentionfs/shufflebase.git
 cd shufflebase
 pip install -e ".[postgres,mysql]"   # or just one of postgres/mysql
 ```
@@ -167,7 +167,7 @@ See [SECURITY.md](SECURITY.md). In short: this tool is meant to be run by a trus
 
 ## Star this repo
 
-If shufflebase saved you from either a Tonic.ai invoice or a broken staging database, a star helps other people find it: [github.com/Laaaaksh/shufflebase/stargazers](https://github.com/Laaaaksh/shufflebase/stargazers).
+If shufflebase saved you from either a Tonic.ai invoice or a broken staging database, a star helps other people find it: [github.com/attentionfs/shufflebase/stargazers](https://github.com/attentionfs/shufflebase/stargazers).
 
 ## License
 

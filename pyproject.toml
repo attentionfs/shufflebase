@@ -39,9 +39,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Laaaaksh/shufflebase"
-Issues = "https://github.com/Laaaaksh/shufflebase/issues"
-Changelog = "https://github.com/Laaaaksh/shufflebase/blob/master/CHANGELOG.md"
+Homepage = "https://github.com/attentionfs/shufflebase"
+Issues = "https://github.com/attentionfs/shufflebase/issues"
+Changelog = "https://github.com/attentionfs/shufflebase/blob/master/CHANGELOG.md"
 
 [project.scripts]
 shufflebase = "shufflebase.cli:main"

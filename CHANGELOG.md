@@ -43,5 +43,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - An optional self-hosted web dashboard (`shufflebase serve`) for
   reviewing/editing strategies and running a mask from a browser.
 
-[Unreleased]: https://github.com/Laaaaksh/shufflebase/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/Laaaaksh/shufflebase/releases/tag/v0.1.0
+[Unreleased]: https://github.com/attentionfs/shufflebase/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/attentionfs/shufflebase/releases/tag/v0.1.0
